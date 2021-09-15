@@ -1,7 +1,6 @@
 package com.lti.model;
 
 public class Flight {
-	
 	int flightId;
 	String source;
 	String destination;
@@ -30,5 +29,4 @@ public class Flight {
 		this.destination = destination;
 	}
 	
-
 }
